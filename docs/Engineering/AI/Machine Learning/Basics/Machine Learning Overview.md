@@ -12,3 +12,41 @@ In General, we can classify a machine learning system by the following:
 2. The ability to learn to learn continuous and quickly. (Online, Batch)
 3. The ways they generalized the observations (Instance-based, model-based)
  
+
+ ## Necessacity of a human assistant
+
+ There are four major categories of how the machine learning systems trained. Supervised learning, unsupervised learning, semisupervised learning, and reinforcement learning.
+
+ ### Supervised learning
+
+A supervised learning requires each training instance in the training set that feeds to the algorithm includes their output (or *label*). Common tasks include classification (predicting classes) and regression (predicting values).
+
+Examples algorithms include:
+- k-Nearest Neighbors (knn)
+- Linear Regression
+- Logistic Regression
+- Support Vector Machines (SVM)
+- Decision Tree and Random Forest
+- Neural networks
+
+### Unsupervised learning
+
+A unsupervised learning do not requires any instance from the training set with a label. Common tasks include grouping pattern (clustering), visualizing high dimensional datas preserving or without losing too much of their structures (dimensionality reduction), anomaly detection, and rule learning.
+
+Example algorithms include:
+- Clustering
+  - k-Means
+  - Hierarchical Cluster Analysis (HCA)
+  - Exception Maximization
+- Visualization and Dimensionality reduction
+  - Principal Component Analysis (PCA)
+  - Kernal PCA
+  - Locally-Linear Embedding (LLE)
+  - t-distributed stochasic Neighbor Embedding (t-SNE)
+- Rule learning
+  - Apriori
+  - Eclat
+
+### Semisupervised learning
+
+A semisupervised learning deal with partially labeled training data. Those algorithms are called semisupervised learning.
