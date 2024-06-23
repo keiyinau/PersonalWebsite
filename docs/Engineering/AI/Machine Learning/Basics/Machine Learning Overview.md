@@ -49,4 +49,14 @@ Example algorithms include:
 
 ### Semisupervised learning
 
-A semisupervised learning deal with partially labeled training data. Those algorithms are called semisupervised learning.
+A semisupervised learning deal with partially labeled training data. Those algorithms are called semisupervised learning. For example, photo-hosting services, such as posting photo in Facebook. You upload all your family photos to the service, it automatically recognize the same group of person shown up in some photo. Clustering algorithms helps grouping those group of people into individual class, and once the user name one people in the group, then the algorithm recognize that person in the rest of the photos.
+
+Example algorithms include:
+- Deep belief networks (DBNs), algorithm based on unsupervised components called restricted Boltzmann machines (RBMs)
+
+### Reinforcement Learning
+
+
+
+
+
